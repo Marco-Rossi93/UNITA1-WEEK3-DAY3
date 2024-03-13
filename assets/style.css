@@ -1,0 +1,30 @@
+body {
+  width: 450px;
+  margin: auto;
+  background-image: url(/assets/photo-1710228736245-5cb0efd30657.avif);
+}
+
+h1 {
+  text-align: center;
+  color: lightblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-top: 20px;
+  font-size: 2em;
+}
+#principale {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+#listadeidesideri {
+  text-align: center;
+  margin-top: 30px;
+  font-style: italic;
+  font-size: 1.5em;
+  background: radial-gradient (aquamarine, white);
+  border: 2px solid blue;
+  color: white;
+}
+
+.tagliato {
+  text-decoration: line-through;
+}
